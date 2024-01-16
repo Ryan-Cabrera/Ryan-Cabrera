@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**Ryan-Cabrera/Ryan-Cabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   I am Ryan Cabrera (not the musician) and am currently as of 1/16/2024 a highschool sophomore. I am very passionate about technology and will pursue a higher education where I can learn more about it.
 
 - 🔭 I’m currently in a game development program that teaches me how to create games on unity and how to code with C#.
